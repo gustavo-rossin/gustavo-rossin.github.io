@@ -6,6 +6,8 @@ body {
     font-size: 16px;
 }
 
+/* . para class e # para id */
+
 .picture {
     border-radius: 100%;
     width: 20%;
@@ -21,6 +23,10 @@ body {
 #introduction {
 font-weight: 800; 
 color: rebeccapurple;
+}
+
+#favorite-color {
+    color:purple;
 }
 
 ul {
