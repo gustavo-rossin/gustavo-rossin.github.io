@@ -3,6 +3,7 @@ body {
     background-image: linear-gradient(to right, #d3eef4ff,#f1eec8ff,#f3a46cff);
     font-family: monospace;
     letter-spacing: -1px;
+    font-size: 16px;
 }
 
 .picture {
@@ -20,4 +21,8 @@ body {
 #introduction {
 font-weight: 800; 
 color: rebeccapurple;
+}
+
+ul {
+    font-size: 16px;
 }
