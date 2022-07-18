@@ -32,3 +32,8 @@ color: rebeccapurple;
 ul {
     font-size: 16px;
 }
+
+li:hover {
+    background-color:white;
+    transition: width 200px;
+}
